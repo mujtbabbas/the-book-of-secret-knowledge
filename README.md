@@ -23,6 +23,20 @@
 
 ****
 
+## About This Standalone Edition
+
+- **Main repository:** [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- **Based on version:** upstream commit `7d37069a361d3fd9f214480755f7969744e866fa` (snapshotted 2026-10-20; upstream HEAD dated 2024-11-19)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions
+  - `.editorconfig` — standard editor settings (UTF-8, LF, 2-space indent)
+- **Credit & licence:** All original work belongs to trimstray and the upstream contributors. Licence is preserved unchanged — see `LICENSE.md` (MIT). This edition adds the enhancements listed above only.
+
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
